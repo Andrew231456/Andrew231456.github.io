@@ -1,4 +1,5 @@
 name: My-Website
-title: null
+title: "My Profile"
+description: "This is some information about me"
 plugins:
   - jemoji
