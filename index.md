@@ -1,6 +1,6 @@
 # Hello World!
 
-[About] (https://andrew231456.github.io/about)
+[About](https://andrew231456.github.io/about)
 
 I really like that phrase lol. Anyways hey I am Andrew and welcome to my page!
 
