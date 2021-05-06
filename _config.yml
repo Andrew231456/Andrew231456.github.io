@@ -3,3 +3,5 @@ title: "My Profile"
 description: "This is some information about me"
 plugins:
   - jemoji
+
+theme: jekyll-theme-cayman
